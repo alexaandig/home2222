@@ -2505,7 +2505,7 @@ label {
 .works {
   background-image: radial-gradient(circle closest-side, rgba(27, 116, 87, .45), #00071e 86%);
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 0px;
 }
 
 .works-grid {
